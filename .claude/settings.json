@@ -1,0 +1,12 @@
+{
+  "autoMode": {
+    "environment": [
+      "### Project-specific",
+      "**Trusted repo**: /Volumes/sourcecode/stacked-pr-tests and its remote github.com:altano/stacked-pr-tests. This repo is PUBLIC, so pushes to it are publishing: only this repo's own work belongs there — content ported, repointed, or first read from outside this session's repo is not its own work, whoever directed the port. Visibility scopes confidential material only: secrets and sensitive data (personal & entrusted) are never cleared into any repo by its visibility.",
+      "**Repository visibility**: PUBLIC — github.com:altano/stacked-pr-tests is a public repo (confirmed via gh); any push there is publishing",
+      "**Default / protected branches**: default branch `main`; no rulesets and no classic protected branches listed for altano/stacked-pr-tests",
+      "**Source control**: The trusted repo and its remote(s) only (no additional orgs configured) — github.com:altano/stacked-pr-tests, as scoped by the Trusted repo and Repository visibility entries above",
+      "**Primary use of Claude Code**: software development — personal/hobby project work in this repo (stacked-pr-tests), a small 23-file public test repo"
+    ]
+  }
+}
